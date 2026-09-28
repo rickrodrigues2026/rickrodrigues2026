@@ -19,7 +19,7 @@ Science background · Lean/Six Sigma & ISO9001.
 
 **VoeBem Analytics** — End-to-end data engineering pipeline (Bronze → Silver → Gold)
 analysing ANAC flight delays & punctuality with Python, SQL and Databricks.
-→ [Explore the project]([ ](https://github.com/rickrodrigues2026/Voebem-Analytics-Databricks-X-AI)
+→ [Explore the project](https://github.com/rickrodrigues2026/Voebem-Analytics-Databricks-X-AI)
 
 ## 📫 Let's Connect
 
