@@ -6,9 +6,9 @@
 
 ## 🎯 Professional Profile | Perfil Profissional
 
-Data analyst focused on **Business Intelligence**, **data storytelling**, and **decision support**. I turn complex datasets into clear insights, efficient dashboards, and measurable business recommendations.
+I am a data analyst focused on turning raw data into clear business decisions. My work combines exploratory analysis, BI development, dashboarding, and data storytelling to help teams understand performance, detect opportunities, and improve outcomes.
 
-Analista de dados focado em **Business Intelligence**, **data storytelling** e **suporte à decisão**. Transformo datasets complexos em insights claros, dashboards eficientes e recomendações mensuráveis para o negócio.
+Sou analista de dados focado em transformar dados brutos em decisões de negócio claras. Meu trabalho combina análise exploratória, desenvolvimento de BI, dashboarding e data storytelling para ajudar equipes a entenderem desempenho, identificar oportunidades e melhorar resultados.
 
 ---
 
@@ -16,9 +16,9 @@ Analista de dados focado em **Business Intelligence**, **data storytelling** e *
 
 ### Data & Analytics | Dados e Análise
 - Exploratory Data Analysis (EDA)
-- KPI development & business performance analysis
-- Statistical analysis & insight generation
-- Data storytelling & executive reporting
+- KPI development and performance analysis
+- Statistical analysis and insight generation
+- Data storytelling and executive reporting
 - Dashboard design and BI solution development
 
 ### Technical Stack | Stack Técnica
@@ -28,113 +28,113 @@ Analista de dados focado em **Business Intelligence**, **data storytelling** e *
 - **Tools**: Jupyter Notebook, Git, Pandas, NumPy, Streamlit
 
 ### Business Impact | Impacto de Negócio
-- Customer retention and revenue analysis
-- Operational efficiency monitoring
+- Customer retention and churn analysis
+- Revenue and sales monitoring
+- Operational efficiency analysis
 - Data quality and governance
 - Stakeholder communication and decision support
-- Data-driven strategy and process optimization
 
 ---
 
-## 🚀 Featured Projects | Projetos em Destaque
+## 🚀 Most Relevant Projects | Projetos Mais Relevantes
 
 ### 1️⃣ VoeBem Analytics — Data Engineering & Aviation Insights
 **End-to-end analytics project using ANAC flight data, Databricks, Python, and SQL**  
 **Projeto analytics end-to-end com dados de aviação da ANAC, Databricks, Python e SQL**
 
 - Built a complete Bronze → Silver → Gold data pipeline
-- Cleans, transforms, and models large aviation datasets for analysis
+- Cleaned and transformed large aviation datasets for analysis
 - Focused on flight delays, cancellations, and on-time performance
-- Combines data engineering with business-facing analytical outcomes
+- Combined data engineering with business-facing analytical outcomes
 - Technologies: Python, SQL, Databricks, Delta Lake
 
-Why this stands out: this project demonstrates strong **data engineering + analytics + business context** in one portfolio piece — highly relevant for recruiters looking for end-to-end analytical capability.  
-Por que destaca: esse projeto demonstra forte capacidade de **data engineering + analytics + contexto de negócio** em um único projeto — muito relevante para recrutadores que buscam competência analítica end-to-end.
+This project is especially relevant for recruiters because it demonstrates strong **data engineering, analytics, and business context** in a single portfolio piece.  
+Este projeto é especialmente relevante para recrutadores porque demonstra forte **data engineering, analytics e contexto de negócio** em um único projeto.
 
 🔗 [View Project | Ver Projeto](https://github.com/rickrodrigues2026/Voebem-Analytics-Databricks-X-AI)
 
 ### 2️⃣ Customer Churn Analysis
-**Customer retention analytics with focus on churn drivers, behavioral patterns, and actionability**  
-**Análise de retenção de clientes com foco em fatores de churn, padrões comportamentais e ação**
+**Customer retention analytics with focus on churn drivers, behavioral patterns, and business actionability**  
+**Análise de retenção de clientes com foco em drivers de churn, padrões comportamentais e ação de negócio**
 
 - Identified churn risk factors and retention opportunities
-- Performed exploratory data analysis and visual diagnostics
-- Built clear insight narratives to support business decisions
+- Performed exploratory analysis and visual diagnostics
+- Turned findings into actionable business insight narratives
 - Technologies: Python, Pandas, Plotly, Jupyter
 
-Why this matters: churn analysis is a classic **business-value project** because it connects data analysis directly to revenue protection and customer strategy.  
-Por que importa: análise de churn é um projeto de **alto valor de negócio** porque conecta análise de dados diretamente à proteção de receita e estratégia de clientes.
+This is a high-value business project because it directly connects analytical work to **revenue protection, customer strategy, and retention decisions**.  
+Este é um projeto de alto valor para o negócio porque conecta o trabalho analítico diretamente à **proteção de receita, estratégia de clientes e decisões de retenção**.
 
 🔗 [View Project | Ver Projeto](https://github.com/rickrodrigues2026/customer-churn-analysis)
 
 ### 3️⃣ Sales Dashboard — Revenue Monitoring & Seller Performance
-**Interactive sales dashboard for revenue analysis by seller and product**  
-**Dashboard interativo de vendas para análise de receita por vendedor e produto**
+**Interactive sales dashboard for business monitoring and performance analysis**  
+**Dashboard interativo de vendas para monitoramento de negócio e análise de desempenho**
 
-- Built a business dashboard for tracking sales outcomes
-- Enabled performance monitoring by seller, product category, and revenue patterns
-- Shows practical BI use case with operational reporting and visualization
+- Built a BI dashboard for tracking sales results
+- Analyzed seller and product performance through clear visual summaries
+- Enabled fast decision-making with operational reporting
 - Technologies: Python, Streamlit, Pandas, Plotly
 
-Why it is relevant: demonstrates **BI execution and business reporting**, with a user-facing dashboard designed for quick decision-making.  
-Por que é relevante: demonstra **execução de BI e reporting de negócio**, com dashboard orientado a tomada de decisão rápida.
+This project highlights practical **dashboarding, business reporting, and performance tracking**—all highly relevant for a data analyst profile.  
+Este projeto destaca **dashboarding, reporting de negócio e acompanhamento de desempenho**, todos altamente relevantes para o perfil de analista de dados.
 
 🔗 [View Project | Ver Projeto](https://github.com/rickrodrigues2026/sales-dashboard)
 
 ### 4️⃣ Prompt Studio Gemini Chat
-**AI-assisted conversational interface for data exploration and insights**  
+**AI-assisted conversational interface for data exploration and insight generation**  
 **Interface conversacional com IA para exploração de dados e geração de insights**
 
 - Built a bilingual AI chat interface using Python and Streamlit
-- Demonstrates LLM integration for conversational data workflows
-- Allows natural-language interaction with a modern AI stack
+- Demonstrates LLM integration in a modern analytics workflow
+- Explores conversational AI as a support layer for data-driven tasks
 - Technologies: Python, Streamlit, Gemini API
 
-Why it is valuable: shows curiosity and adaptability in **AI + analytics workflows**, which is increasingly valuable in modern data teams.  
-Por que é valioso: mostra curiosidade e adaptabilidade em **fluxos de IA + analytics**, cada vez mais relevantes em times modernos de dados.
+This project adds strategic value by showing adaptability to **AI + analytics workflows** in a rapidly evolving data landscape.  
+Este projeto agrega valor estratégico ao mostrar adaptabilidade a **fluxos de IA + analytics** em um cenário de dados em rápida evolução.
 
 🔗 [View Project | Ver Projeto](https://github.com/rickrodrigues2026/prompt-studio-gemini-chat)
 
 ---
 
-## 📊 What I Do | O Que Faço
+## 📊 What I Bring | O Que Eu Trago
 
-I transform raw data into business clarity — combining statistical reasoning, strong visualization, and strategic thinking to help teams understand performance, identify opportunities, and make better decisions.
+I help teams make sense of data by combining analytical rigor, business context, and clear communication. My focus is on building insight-driven solutions that support decisions, optimize performance, and turn data into action.
 
-Transformo dados brutos em clareza de negócio — combinando raciocínio estatístico, visualização forte e pensamento estratégico para ajudar times a entenderem performance, identificar oportunidades e tomar melhores decisões.
+Ajudo equipes a dar sentido aos dados combinando rigor analítico, contexto de negócio e comunicação clara. Meu foco está em construir soluções orientadas por insights que apoiam decisões, otimizam performance e transformam dados em ação.
 
-**Primary focus areas | Áreas principais:**
-- ✅ Exploratory data analysis & pattern detection
-- ✅ Dashboard development & BI solutions
-- ✅ KPI and performance measurement
+**Main focus areas | Áreas principais:**
+- ✅ Exploratory analysis and pattern detection
+- ✅ BI dashboards and performance reporting
+- ✅ KPI tracking and business measurement
 - ✅ Revenue, retention, and operational analysis
-- ✅ Python automation and data workflow building
+- ✅ Python automation and data workflows
 
 ---
 
-## 🏆 Why These Projects Stand Out for Recruiters | Por Que Esses Projetos Chamam Atenção de Recrutadores
+## 🏆 Why These Projects Stand Out to Recruiters | Por Que Esses Projetos Chamam Atenção de Recrutadores
 
 The strongest portfolio pieces for a data analyst profile are the ones that combine:
-- real business problems
-- clean analytical thinking
-- practical tools and workflows
-- visual communication of results
+- real business questions
+- practical analytical methods
+- business value and measurable outcomes
+- clear communication through dashboards and analysis
 
-Os projetos mais fortes para perfil de analista de dados são aqueles que combinam:
-- problemas reais de negócio
-- raciocínio analítico bem estruturado
-- ferramentas e fluxos práticos
-- comunicação visual de resultados
+Os projetos mais fortes para um perfil de analista de dados são aqueles que combinam:
+- questões reais de negócio
+- métodos analíticos práticos
+- valor de negócio e resultados mensuráveis
+- comunicação clara por meio de dashboards e análise
 
-In this portfolio, the most recruiter-friendly projects are:
-- **VoeBem Analytics** → data engineering + analytics + domain context
-- **Customer Churn Analysis** → direct business impact and retention strategy
-- **Sales Dashboard** → BI reporting and business monitoring
+For my portfolio, the strongest recruiter-facing projects are:
+- **VoeBem Analytics** → data engineering + business analysis + domain understanding
+- **Customer Churn Analysis** → direct impact on retention and revenue strategy
+- **Sales Dashboard** → BI execution and business monitoring
 
-No portfólio atual, os projetos mais atrativos para recrutadores são:
-- **VoeBem Analytics** → data engineering + analytics + contexto de negócio
-- **Customer Churn Analysis** → impacto direto em retenção e estratégia
-- **Sales Dashboard** → BI e monitoramento de negócio
+No meu portfólio, os projetos mais relevantes para recrutadores são:
+- **VoeBem Analytics** → data engineering + business analysis + entendimento do domínio
+- **Customer Churn Analysis** → impacto direto em retenção e estratégia de receita
+- **Sales Dashboard** → execução de BI e monitoramento de negócio
 
 ---
 
